@@ -1,0 +1,6 @@
+.dropdown-toggle, .dropdown-item {
+    cursor: pointer;
+}
+.btn-primary {
+    background-color: white !important;
+}
